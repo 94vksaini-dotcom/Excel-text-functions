@@ -54,7 +54,8 @@ The objectives were:
 
 ## Output preview
 
-- `screenshot.png` →   
+- ![HR Workforce Dashboard]()
+  
 
 ---
 
