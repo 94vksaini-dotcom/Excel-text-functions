@@ -52,10 +52,9 @@ The objectives were:
 
 ---
 
-## Files
+## Output preview
 
-- `Excel_Text_Functions_Practice.xlsx` → Excel file with formulas and results  
-- `screenshot.png` → Output preview  
+- `screenshot.png` →   
 
 ---
 
