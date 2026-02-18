@@ -54,7 +54,7 @@ The objectives were:
 
 ## Output preview
 
-- ![HR Workforce Dashboard]()
+- [Screenshot.png](https://github.com/94vksaini-dotcom/Excel-text-functions/blob/main/Screenshot.png)
   
 
 ---
